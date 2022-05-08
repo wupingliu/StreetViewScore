@@ -1,0 +1,5 @@
+Explanation of all data files:
+
+200WGS_Points.csv: street view sampling point data obtained from road network data at intervals of 200 meters, the data can be directly applied to baidu_streetview_download.py.
+
+baidu_votes_pairs.csv:The perceptual annotation data of Street View is in the format of "left name, right name, winner", which is consistent with the format of the PlacePulse dataset.
